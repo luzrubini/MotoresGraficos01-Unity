@@ -35,12 +35,11 @@ public class movimiento : MonoBehaviour
 
         // --- Rotación con mouse ---
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-        //float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
         
         transform.Rotate(Vector3.up * mouseX);
 
-        
         //xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);
 
