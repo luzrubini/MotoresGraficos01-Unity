@@ -818,7 +818,7 @@ MonoBehaviour:
   - {fileID: 1009608805}
   - {fileID: 9541053}
   cookiesNumber: 0
-  ThePlayerHasWin: 1
+  ThePlayerHasWin: 0
   ThePlayerLoose: 0
   txtCookies: {fileID: 2044500230}
   winAndLosePanel: {fileID: 112207766}
