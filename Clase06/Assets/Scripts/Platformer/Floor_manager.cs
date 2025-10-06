@@ -30,7 +30,7 @@ public class Floor_manager : MonoBehaviour
             transform.position += Vector3.down * speed * Time.deltaTime;
             if (transform.position.y <= startPos.y)
             {
-                movingUp = true;
+                movingUp = true; //si appendeo el obj al jugado hago q no salte y pegue la plataforma a el
             }
         }
     }
