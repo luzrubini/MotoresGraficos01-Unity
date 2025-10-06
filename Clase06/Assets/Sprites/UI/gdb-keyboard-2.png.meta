@@ -1,0 +1,3044 @@
+fileFormatVersion: 2
+guid: 0b9edf828a3d37b40b7e73870222ab5c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdb-keyboard-2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742a9244d37a0df44a3a017ec1e424de
+      internalID: -1657669922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 528
+        width: 248
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9640dd71f1b9941b54697d1b3ce4c0
+      internalID: -969109617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 614
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23c8e7a47f2114288abbab2e2dc02a
+      internalID: -108147949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70bd3ce89567e3459944ea1b3382219
+      internalID: -2060464375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 613
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fd0db82e3b714bb7b8b0521535da2
+      internalID: -154016639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 612
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d8448911f7c841bad5c4cc3f5c13b
+      internalID: 1031711755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 609
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d5a8d2bb95834095a8556adcdf1d7
+      internalID: -161854843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 609
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a20e97ced506f4ba8d14f28be9b939
+      internalID: 1299205635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 545
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03279c10db48c24fa892431d8322917
+      internalID: 88034241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 577
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae277292e305d8947a7c893b17917354
+      internalID: -1982483202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 560
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a2c6bea7571341b149a338931f400
+      internalID: 1145136610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 544
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489b306fe890a6459570f5b24526c06
+      internalID: 1671848959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 512
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5af2a60fead8504cb7449739f6d722f
+      internalID: 1515614316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 528
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd3e7203a23154594c12c8877e70d3
+      internalID: 1124337134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 544
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f284afc2418d284bb0657a3d2cf6a53
+      internalID: 518362385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 512
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae0ad6749c79c43a2f0a5e223fc3fe
+      internalID: -566330983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9d9f20781b254dbe5091d97755dc1
+      internalID: -664309746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b55842ba5acdb4e8ce6053e7366fee
+      internalID: 647550542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 498
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ded4c180edf354ab67611b70ace26c
+      internalID: 166655189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 500
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584b018d312ce714cb010de9f6731b39
+      internalID: -2006029071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 208
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d12a401a24824f823e998b52a4ba4
+      internalID: 168317709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 480
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9cba7903d6b041965522d56ad5d34
+      internalID: 860352960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326200583da97945888173a8e747486
+      internalID: 511313116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 484
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98734f6f36cc0ef429d0416128cb07f3
+      internalID: 874291614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 466
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba4922a4c1bd64586c0cb53229795c
+      internalID: -1924617908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 466
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e1cb78be017542a1171faf596125c
+      internalID: 786132364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 464
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db40eae3479b41b4cb252db14f3dacb3
+      internalID: -885005243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 208
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4f705bf7099f84c87a7faf21cd3613
+      internalID: 1101337319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 464
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62f4d6bc81d3f458e1a0c4c9461e3f
+      internalID: -1601315412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 464
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29771187985eac41a4c1df9d17615db
+      internalID: -1907518042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da4023a9be3c0409ecc3e7c5d0f79d
+      internalID: 2126843213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 176
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab429f527a3a4b74aadb52dd0bf1b3b9
+      internalID: -94932337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 448
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473738b86fe74754b8729fa0d620824e
+      internalID: -1177056256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_33
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 448
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b0aa8a10fbd94ab53819ef4a0a062
+      internalID: 1200258248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 448
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a943a4f5fd178f24cbd8008249b2aa47
+      internalID: 1111928453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_35
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 434
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b149f407159674badf0a411c7e911a
+      internalID: 1089197340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 434
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7b1c6ee4e99545a6c4bae55e01e97
+      internalID: -83442314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db17831d784f5540ae31456b87c4135
+      internalID: -342639669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 160
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca5f6f98ff4c6346bb0104aeed4d16b
+      internalID: -1953165681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 432
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7d872b5aad044f95fd352933a6c2a
+      internalID: -1424401088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc68940fba4714f8b034999e5bf0be
+      internalID: -1220211095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 432
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4b920f28125646a1a6d414093b119
+      internalID: -1188827471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_42
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 432
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d78ec517b153c49808af79e610324f
+      internalID: 112854582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 416
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c963cd96dc99e49a99f356d8b9f437
+      internalID: -13174977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 416
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba6cab109e46841b503b4a7ec9f4d2
+      internalID: 243181607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 104
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18838bf82a8209141899187fbb789596
+      internalID: -891325503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_46
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 416
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5aa8fa551af74d86f4f531ad992d3
+      internalID: -921733844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_47
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 416
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def402619a431524ea00c56caa405d15
+      internalID: 883149852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 416
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f8e7752fb19348ac1f3e4407df7d3
+      internalID: -1895134354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f201111b2520742b4e94f62cd3d2ab
+      internalID: 1993939215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 400
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7652322a9a0e93459b0fd292d00ab8f
+      internalID: 503034071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8814ba593a6394a90ac7a7d22e7be1
+      internalID: 1974857205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 192
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688287f6abf118d47b4624dab4119b28
+      internalID: -90791172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 208
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03334769c856a347a4827dfa1679ba3
+      internalID: 151369487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 368
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b55aca6c4f2554aacd8658ef39c7fa
+      internalID: 1888012129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 352
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff048c689846cc448d5a0698daad2dd
+      internalID: -320716639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 352
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468cdab657594842a82b4032afbd04f
+      internalID: -1429959399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 208
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49650d9520e4ce4aaefc40c4432ff51
+      internalID: -1226331587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a024b45848668419faee3f533f2c36
+      internalID: 511991837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 176
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9591e6007ed649abe1bd81184eb74
+      internalID: -880268761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06489abae6bdc8447ac86c7536d11d1e
+      internalID: -1225707842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 320
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e4fb7f887d544992d1b81101d978a
+      internalID: 1036087259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 160
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5b29b3c635994fb11ab19af9a4178
+      internalID: 1934776705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_63
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b89e57c2fa054989c3e0deea133b7
+      internalID: -1879339525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fabc5390fd7842bf16fb10250fe63
+      internalID: 2042041791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 304
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e76342f1897b44ab068b54e986d01c
+      internalID: -1344181970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce371348e01944991d450455451ad8
+      internalID: 198638295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 304
+        width: 104
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e872157023b5b45928cc87000f268d
+      internalID: 120220049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 304
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddac1b6953137849b6ece9eb43f6f8a
+      internalID: -432936053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be272541a71d959488d8b68e7d3993ed
+      internalID: -1131309294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01320758e4545f8449ccfb23ad6c5c9e
+      internalID: -64047184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0569efb9b06124cab7f004e55d16cb
+      internalID: -648251422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_72
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 265
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76153297b07bf9249a88f9bd0db6706a
+      internalID: 1477598933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_73
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b999d95b2ff9b42a945d5fa3c201f7
+      internalID: -812453384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59100f68ac42b64f86e972ad710dc81
+      internalID: -1779103324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cdd2c5c01af054bac802b5aee34d38
+      internalID: 829468530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 208
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40429d534934c26408e3146ee08e2a97
+      internalID: 1146779438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 256
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277ea7bc7481fd479194fe98ed01e59
+      internalID: -774651047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_78
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 262
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8907b78a4eb1d4ba8456b3d239fb1c
+      internalID: -767595042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_79
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 240
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289284d3dbcfd348be82a226f2730d9
+      internalID: 543560670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 208
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc717a8313b96bf47915e7822079c83a
+      internalID: -164264159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_81
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 247
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0076388993d6f4a99ab09724d869d4
+      internalID: -2087002868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f33d7ff8c5634f91e03dc007ed3be
+      internalID: 1192562665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 176
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5309255e015154cacb25fbdcc224bb
+      internalID: 67417730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0aec0045b45244ebd3da2a6734a665
+      internalID: 1919355715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_85
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 229
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aff5280d73b7144a75bbe05beef4c0
+      internalID: 1278692383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_86
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2238b581e97945bded11ade7419cb
+      internalID: 459506659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 208
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12db892858bb514dbb70e2b6cf5f5a2
+      internalID: 1259323139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 160
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86489bf4bcec9cb4095912ed89e701ce
+      internalID: -938069933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_89
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2863b47891c9d48aa9388f803ad3ee
+      internalID: -1968036785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130fcbb5479f7c499e5709f30988b51
+      internalID: 1922320265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_91
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 213
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78373a72721e6f8489b84813abbeba43
+      internalID: 934331774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_92
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 214
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c619457c48bd18439410b8cb2106ffc
+      internalID: -1787140071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_93
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574827a7607ad794a9d44a22cacc1b7d
+      internalID: -606704143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb0bda5d728364796b509d20e7dc88
+      internalID: 1941110870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 88
+        width: 273
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82dcd57b5d00364ca7a7c2942849066
+      internalID: 1289870021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 104
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871ab1fe8aa04b4da38c9ea82c4fecf
+      internalID: -1372097060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 192
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e19e7da727dc1498f60b1fa2aeb0bb
+      internalID: -1806860024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_98
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21afb7f16c9fa924c97e088db81ca4ee
+      internalID: 1946876587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582822e8f4d7d5438371620d908b86d
+      internalID: 975655325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 136
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b54b4faab5734a85059df49f7cb9a
+      internalID: -1501866754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57675ec34baa1434989f185c657a4199
+      internalID: -223025090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087d25cae1fd41419b4affe0a556538
+      internalID: -877986897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc0e4dc6de98c4fb60c8d921991207
+      internalID: -591505751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_104
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa490356280e2c4abd2209e6fbe4863
+      internalID: 1791575962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_105
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943c8da4b37aa3499b963be5df2c0de
+      internalID: 739650346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_106
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a4f531c4c878488084611959de893
+      internalID: -1425961918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e326fe0edd5044bbd1e6bf80b7a05
+      internalID: 1078224590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d9f23851a73348bd1168889232edb
+      internalID: -1216025626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4503ced8b52e3c42a912ea066ab4be1
+      internalID: -1960943326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f644f1c462a804597d3ae1580056ff
+      internalID: 1912568541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a003830ca41a7c4fa86d6d69479b427
+      internalID: 1042528734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85fcd2f904f61041b0770d46e9c287f
+      internalID: -1391086021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_113
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8db976b20f1e46993e49e7b920cfd
+      internalID: 1136603784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_114
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 136
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8bf2441f79e546b18735934e7cd38
+      internalID: 1312896158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_115
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4742d889abe94d24da2bb7627751e9d2
+      internalID: 104279192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fdcc16f2f55d40beba98887fdb44f
+      internalID: -1874357138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 121
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233a2e84ff6b224f8d66bacb2edd9c5
+      internalID: -841588042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_118
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 89
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a68fa295917a24dac8ac1791123151
+      internalID: -382325944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_119
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ec8bb88da70443ba1de8f1a90ed6d
+      internalID: -1823937546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_120
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edccf3a8daf46b24d8b672544e789285
+      internalID: 1298897310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab058d9d75d5f546b6e6bbdc2c0e8f2
+      internalID: 1612023230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_122
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea44d756752b444e98ffec3bff1b6c0
+      internalID: -1552246115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_123
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22c79a186d52cd42bd047d8ebaa7778
+      internalID: -454739008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_124
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27199aabe050c4495181a881e4c90f
+      internalID: 180814348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_125
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414f4ee0d2054844aa2db833991c2bd
+      internalID: -422195664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_126
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 103
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8920689302582c41a4f2489184f618c
+      internalID: -1425882984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f0eeb27ec27048902bd8ab07f7f15
+      internalID: 1598394390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1ebb60041a0764893070b42da90e19
+      internalID: 1552101446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_129
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 16
+        width: 104
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2145175863d894cad6d30b65cad241
+      internalID: 263289393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_130
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 16
+        width: 104
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaf4b9bbb87bc04ba44592e81967dc4
+      internalID: -1108297284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdb-keyboard-2_131
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 16
+        width: 104
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2dbff243df42f4a915d9400864aa84
+      internalID: 504026673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0331a311eb3d47f4e82f1ec1d4e75288
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gdb-keyboard-2_0: -1657669922
+      gdb-keyboard-2_1: -969109617
+      gdb-keyboard-2_10: 1145136610
+      gdb-keyboard-2_100: -1501866754
+      gdb-keyboard-2_101: -223025090
+      gdb-keyboard-2_102: -877986897
+      gdb-keyboard-2_103: -591505751
+      gdb-keyboard-2_104: 1791575962
+      gdb-keyboard-2_105: 739650346
+      gdb-keyboard-2_106: -1425961918
+      gdb-keyboard-2_107: 1078224590
+      gdb-keyboard-2_108: -1216025626
+      gdb-keyboard-2_109: -1960943326
+      gdb-keyboard-2_11: 1671848959
+      gdb-keyboard-2_110: 1912568541
+      gdb-keyboard-2_111: 1042528734
+      gdb-keyboard-2_112: -1391086021
+      gdb-keyboard-2_113: 1136603784
+      gdb-keyboard-2_114: 1312896158
+      gdb-keyboard-2_115: 104279192
+      gdb-keyboard-2_116: -1874357138
+      gdb-keyboard-2_117: -841588042
+      gdb-keyboard-2_118: -382325944
+      gdb-keyboard-2_119: -1823937546
+      gdb-keyboard-2_12: 1515614316
+      gdb-keyboard-2_120: 1298897310
+      gdb-keyboard-2_121: 1612023230
+      gdb-keyboard-2_122: -1552246115
+      gdb-keyboard-2_123: -454739008
+      gdb-keyboard-2_124: 180814348
+      gdb-keyboard-2_125: -422195664
+      gdb-keyboard-2_126: -1425882984
+      gdb-keyboard-2_127: 1598394390
+      gdb-keyboard-2_128: 1552101446
+      gdb-keyboard-2_129: 263289393
+      gdb-keyboard-2_13: 1124337134
+      gdb-keyboard-2_130: -1108297284
+      gdb-keyboard-2_131: 504026673
+      gdb-keyboard-2_14: 518362385
+      gdb-keyboard-2_15: -566330983
+      gdb-keyboard-2_16: -664309746
+      gdb-keyboard-2_17: 647550542
+      gdb-keyboard-2_18: 166655189
+      gdb-keyboard-2_19: -2006029071
+      gdb-keyboard-2_2: -108147949
+      gdb-keyboard-2_20: 168317709
+      gdb-keyboard-2_21: 860352960
+      gdb-keyboard-2_22: 511313116
+      gdb-keyboard-2_23: 874291614
+      gdb-keyboard-2_24: -1924617908
+      gdb-keyboard-2_25: 786132364
+      gdb-keyboard-2_26: -885005243
+      gdb-keyboard-2_27: 1101337319
+      gdb-keyboard-2_28: -1601315412
+      gdb-keyboard-2_29: -1907518042
+      gdb-keyboard-2_3: -2060464375
+      gdb-keyboard-2_30: 2126843213
+      gdb-keyboard-2_31: -94932337
+      gdb-keyboard-2_32: -1177056256
+      gdb-keyboard-2_33: 1200258248
+      gdb-keyboard-2_34: 1111928453
+      gdb-keyboard-2_35: 1089197340
+      gdb-keyboard-2_36: -83442314
+      gdb-keyboard-2_37: -342639669
+      gdb-keyboard-2_38: -1953165681
+      gdb-keyboard-2_39: -1424401088
+      gdb-keyboard-2_4: -154016639
+      gdb-keyboard-2_40: -1220211095
+      gdb-keyboard-2_41: -1188827471
+      gdb-keyboard-2_42: 112854582
+      gdb-keyboard-2_43: -13174977
+      gdb-keyboard-2_44: 243181607
+      gdb-keyboard-2_45: -891325503
+      gdb-keyboard-2_46: -921733844
+      gdb-keyboard-2_47: 883149852
+      gdb-keyboard-2_48: -1895134354
+      gdb-keyboard-2_49: 1993939215
+      gdb-keyboard-2_5: 1031711755
+      gdb-keyboard-2_50: 503034071
+      gdb-keyboard-2_51: 1974857205
+      gdb-keyboard-2_52: -90791172
+      gdb-keyboard-2_53: 151369487
+      gdb-keyboard-2_54: 1888012129
+      gdb-keyboard-2_55: -320716639
+      gdb-keyboard-2_56: -1429959399
+      gdb-keyboard-2_57: -1226331587
+      gdb-keyboard-2_58: 511991837
+      gdb-keyboard-2_59: -880268761
+      gdb-keyboard-2_6: -161854843
+      gdb-keyboard-2_60: -1225707842
+      gdb-keyboard-2_61: 1036087259
+      gdb-keyboard-2_62: 1934776705
+      gdb-keyboard-2_63: -1879339525
+      gdb-keyboard-2_64: 2042041791
+      gdb-keyboard-2_65: -1344181970
+      gdb-keyboard-2_66: 198638295
+      gdb-keyboard-2_67: 120220049
+      gdb-keyboard-2_68: -432936053
+      gdb-keyboard-2_69: -1131309294
+      gdb-keyboard-2_7: 1299205635
+      gdb-keyboard-2_70: -64047184
+      gdb-keyboard-2_71: -648251422
+      gdb-keyboard-2_72: 1477598933
+      gdb-keyboard-2_73: -812453384
+      gdb-keyboard-2_74: -1779103324
+      gdb-keyboard-2_75: 829468530
+      gdb-keyboard-2_76: 1146779438
+      gdb-keyboard-2_77: -774651047
+      gdb-keyboard-2_78: -767595042
+      gdb-keyboard-2_79: 543560670
+      gdb-keyboard-2_8: 88034241
+      gdb-keyboard-2_80: -164264159
+      gdb-keyboard-2_81: -2087002868
+      gdb-keyboard-2_82: 1192562665
+      gdb-keyboard-2_83: 67417730
+      gdb-keyboard-2_84: 1919355715
+      gdb-keyboard-2_85: 1278692383
+      gdb-keyboard-2_86: 459506659
+      gdb-keyboard-2_87: 1259323139
+      gdb-keyboard-2_88: -938069933
+      gdb-keyboard-2_89: -1968036785
+      gdb-keyboard-2_9: -1982483202
+      gdb-keyboard-2_90: 1922320265
+      gdb-keyboard-2_91: 934331774
+      gdb-keyboard-2_92: -1787140071
+      gdb-keyboard-2_93: -606704143
+      gdb-keyboard-2_94: 1941110870
+      gdb-keyboard-2_95: 1289870021
+      gdb-keyboard-2_96: -1372097060
+      gdb-keyboard-2_97: -1806860024
+      gdb-keyboard-2_98: 1946876587
+      gdb-keyboard-2_99: 975655325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
